@@ -1,5 +1,5 @@
 @echo off
-copy %1 %appdata%\Microsoft\Windows\Start Menu\Programs
+copy %1 %appdata%"\Microsoft\Windows\Start Menu\Programs"
 cls
 color fc
 echo done
