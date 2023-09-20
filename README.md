@@ -1,5 +1,5 @@
 # Hi!
 ### Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/354427199023218689)](https://discord.com/users/354427199023218689)
+<img src="https://lanyard-profile-readme.vercel.app/api/354427199023218689?animated=true" height=200px/>
 
 Discord: trwy
